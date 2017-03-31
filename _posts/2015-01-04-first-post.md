@@ -1,8 +1,8 @@
 ---
 layout: post
-title: First post!
+title: Bài đầu tiên của tôi
 image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
 
-This is my first post, how exciting!
+chao buổi sáng mọi người
